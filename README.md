@@ -9,7 +9,7 @@ The analysis involves:
 - Visual Analysis using Matplotlib
 - Summary and Observations based on graphs
 
-> This assignment was part of my internship at Celebal Technologies, Week 3 – with the goal of practicing data visualization and analytical storytelling.
+> This assignment was part of my internship at Celebal Technologies, Week 3 – with the goal of practicing data visualization.
 
 ## Dataset Info
 - **Source:** [Titanic Dataset on GitHub](https://raw.githubusercontent.com/pandas-dev/pandas/master/doc/data/titanic.csv)
